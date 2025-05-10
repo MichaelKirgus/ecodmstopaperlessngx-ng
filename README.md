@@ -1,7 +1,7 @@
 This script reads an ecodms-export and imports the documents to paperless-ngx.
 
 This script is customized for my ecoDMS installation. 
-The original script is from https://github.com/eingemaischt/ecodmstopaperlessngx.
+The original script is from https://github.com/eingemaischt/ecodmstopaperlessngx-.
 
 To use this script, create an export in ecodms (version 24.02 in my case) with a search string
 like "docid >= 0". This will export all of your documents in a zip file with an xml-file "export.xml"
